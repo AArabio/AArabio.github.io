@@ -15,4 +15,6 @@ about:
       href: https://github.com
 ---
 
-This is where we will fill in about Ally for website 
+A little bit about me: 
+
+I am a current graduate student studying statistics at Iowa State University 
